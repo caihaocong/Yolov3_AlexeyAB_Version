@@ -1,4 +1,10 @@
-﻿# Yolo-v3 and Yolo-v2 for Windows and Linux
+"Yolov3_AlexeyAB_Version"
+Thanks https://github.com/ArtyZe/yolo_segmentation and https://github.com/AlexeyAB/darknet
+I only make a little change. In yolov3 AlexeyAB Version, add the u-net model.
+
+----------------------------------------------------------------------------------------
+
+# Yolo-v3 and Yolo-v2 for Windows and Linux
 ### (neural network for object detection) - Tensor Cores can be used on [Linux](https://github.com/AlexeyAB/darknet#how-to-compile-on-linux) and [Windows](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-vcpkg)
 
 More details: http://pjreddie.com/darknet/yolo/
